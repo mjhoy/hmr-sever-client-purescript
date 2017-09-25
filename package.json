@@ -2,5 +2,11 @@
   "name": "hmr-sever-client-purescript",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.5",
+    "purescript": "^0.11.6",
+    "purs-loader": "^3.1.1",
+    "webpack": "^3.6.0"
+  }
 }
